@@ -1,0 +1,4 @@
+
+public enum ESelectionType {
+	RANDOM, SYSTEMATIC_SEQUENCE, SYSTEMATIC_FOLLOWING
+}
